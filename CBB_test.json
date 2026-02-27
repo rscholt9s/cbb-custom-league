@@ -1,0 +1,103 @@
+{
+  "awardCustomizations": [],
+  "conferences": [
+    {
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Atlantic_Coast_Conference_logo.svg",
+      "conferencePrestige": 95,
+      "name": "ACC",
+      "requiredConferenceGames": 20,
+      "tier": "Power",
+      "teams": [
+        {
+          "abbreviation": "DUKE",
+          "defenseScheme": "Man-to-Man",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Duke_Athletics_logo.svg",
+          "mascot": "Blue Devils",
+          "name": "Duke",
+          "offenseScheme": "Motion",
+          "prestige": 96,
+          "primary": "#012169",
+          "secondary": "#FFFFFF",
+          "tertiary": "#C1C6C8",
+          "region": "Southeast"
+        },
+        {
+          "abbreviation": "UNC",
+          "defenseScheme": "Man-to-Man",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/North_Carolina_Tar_Heels_logo.svg",
+          "mascot": "Tar Heels",
+          "name": "North Carolina",
+          "offenseScheme": "Uptempo",
+          "prestige": 94,
+          "primary": "#7BAFD4",
+          "secondary": "#FFFFFF",
+          "tertiary": "#13294B",
+          "region": "Southeast"
+        },
+        {
+          "abbreviation": "UVA",
+          "defenseScheme": "Pack Line",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Virginia_Cavaliers_logo.svg",
+          "mascot": "Cavaliers",
+          "name": "Virginia",
+          "offenseScheme": "Blocker-Mover",
+          "prestige": 88,
+          "primary": "#232D4B",
+          "secondary": "#F84C1E",
+          "tertiary": "#FFFFFF",
+          "region": "Southeast"
+        }
+      ],
+      "protectedPairs": []
+    },
+    {
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mid-American_Conference_logo.svg",
+      "conferencePrestige": 68,
+      "name": "MAC",
+      "requiredConferenceGames": 18,
+      "tier": "Mid",
+      "teams": [
+        {
+          "abbreviation": "AKR",
+          "defenseScheme": "Man-to-Man",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Akron_Zips_logo.svg",
+          "mascot": "Zips",
+          "name": "Akron",
+          "offenseScheme": "Balanced",
+          "prestige": 70,
+          "primary": "#041E42",
+          "secondary": "#A89968",
+          "tertiary": "#FFFFFF",
+          "region": "Midwest"
+        },
+        {
+          "abbreviation": "TOLE",
+          "defenseScheme": "Man-to-Man",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Toledo_Rockets_logo.svg",
+          "mascot": "Rockets",
+          "name": "Toledo",
+          "offenseScheme": "Uptempo",
+          "prestige": 66,
+          "primary": "#15397F",
+          "secondary": "#FFD200",
+          "tertiary": "#FFFFFF",
+          "region": "Midwest"
+        },
+        {
+          "abbreviation": "KENT",
+          "defenseScheme": "Zone",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kent_State_Golden_Flashes_logo.svg",
+          "mascot": "Golden Flashes",
+          "name": "Kent State",
+          "offenseScheme": "Spread",
+          "prestige": 64,
+          "primary": "#002664",
+          "secondary": "#EAAB00",
+          "tertiary": "#FFFFFF",
+          "region": "Midwest"
+        }
+      ],
+      "protectedPairs": []
+    }
+  ]
+}
